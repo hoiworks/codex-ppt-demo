@@ -1,0 +1,242 @@
+{"kind":"deck","id":"pr/f0i79g","name":"Deck"}
+{"kind":"layout","layoutId":"568fa35c-5936-4609-8a77-947f7b0d35b5","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"824cebae-9286-4a84-af55-72ecfc62e9c3","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/gz9ka8","slide":1,"title":"AI 자동화 컨설팅 제안서","textShapes":6}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":1,"text":"AI 자동화 컨설팅 제안서","textPreview":"AI 자동화 컨설팅 제안서","textChars":14,"textLines":1,"bbox":[72,78,520,34]}
+{"kind":"textbox","id":"sh/cvixczed","slide":1,"text":"여성용 가방몰의\n반복 업무를 줄이는\n업무 자동화 제안","textPreview":"여성용 가방몰의 | 반복 업무를 줄이는 | 업무 자동화 제안","textChars":29,"textLines":3,"bbox":[72,158,560,210]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":1,"text":"고객사 온라인 쇼핑몰 대상 | 4주 진단 및 구축 컨설팅","textPreview":"고객사 온라인 쇼핑몰 대상 | 4주 진단 및 구축 컨설팅","textChars":31,"textLines":1,"bbox":[72,416,560,32]}
+{"kind":"shape","id":"sh/udg7adsj","slide":1,"bbox":[72,482,300,38]}
+{"kind":"textbox","id":"sh/54zidony","slide":1,"text":"반복 업무 → 구조화 → 자동화","textPreview":"반복 업무 → 구조화 → 자동화","textChars":17,"textLines":1,"bbox":[90,490,264,20]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":1,"text":"Source: McKinsey, Baymard, NRF, Salesforce","textPreview":"Source: McKinsey, Baymard, NRF, Salesforce","textChars":42,"textLines":1,"bbox":[72,682,880,18]}
+{"kind":"textbox","id":"sh/judg7ads","slide":1,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[1184,672,34,24]}
+{"kind":"image","id":"im/j2t83itg","slide":1,"name":"","geometry":"roundRect","alt":"AI automation visual for handbag ecommerce operations","bbox":[640,80,560,520]}
+{"kind":"notes","id":"nt/gz9ka8","slide":1,"text":"표지는 도구 소개가 아니라 반복 업무를 줄이는 구조 제안임을 강조한다."}
+{"kind":"slide","id":"sl/nl69uq","slide":2,"title":"왜 지금 AI 자동화가 필요한가","textShapes":12}
+{"kind":"textbox","id":"sh/tovahoza","slide":2,"text":"왜 지금 AI 자동화가 필요한가","textPreview":"왜 지금 AI 자동화가 필요한가","textChars":17,"textLines":1,"bbox":[72,52,820,54]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":2,"text":"상품, 문의, 반품, 콘텐츠 업무가 동시에 늘어나는 온라인몰 운영 환경","textPreview":"상품, 문의, 반품, 콘텐츠 업무가 동시에 늘어나는 온라인몰 운영 환경","textChars":39,"textLines":1,"bbox":[72,108,900,34]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":2,"bbox":[72,170,330,230]}
+{"kind":"shape","id":"sh/0fepkzup","slide":2,"bbox":[72,170,7,230]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":2,"text":"업무량 증가","textPreview":"업무량 증가","textChars":6,"textLines":1,"bbox":[94,190,286,28]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":2,"text":"신상품 등록, 상세 설명, 배너 문구, 리뷰 확인이 매주 반복됩니다.","textPreview":"신상품 등록, 상세 설명, 배너 문구, 리뷰 확인이 매주 반복됩니다.","textChars":38,"textLines":1,"bbox":[94,228,286,160]}
+{"kind":"shape","id":"sh/bulwval8","slide":2,"bbox":[438,170,330,230]}
+{"kind":"shape","id":"sh/0je9cvix","slide":2,"bbox":[438,170,7,230]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":2,"text":"응대 속도 압박","textPreview":"응대 속도 압박","textChars":8,"textLines":1,"bbox":[460,190,286,28]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":2,"text":"배송, 소재, 수납, 반품 문의가 누적되면 구매 전환과 만족도에 영향을 줍니다.","textPreview":"배송, 소재, 수납, 반품 문의가 누적되면 구매 전환과 만족도에 영향을 줍니다.","textChars":44,"textLines":1,"bbox":[460,228,286,160]}
+{"kind":"shape","id":"sh/g7adsji5","slide":2,"bbox":[804,170,330,230]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":2,"bbox":[804,170,7,230]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":2,"text":"AI 활용 기회","textPreview":"AI 활용 기회","textChars":8,"textLines":1,"bbox":[826,190,286,28]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":2,"text":"McKinsey는 생성형 AI가 패션·럭셔리 분야 영업이익에 $150B-$275B 잠재효과를 낼 수 있다고 분석했습니다.","textPreview":"McKinsey는 생성형 AI가 패션·럭셔리 분야 영업이익에 $150B-$275B 잠재효과를 낼 수 있다고 분석했습니다.","textChars":67,"textLines":1,"bbox":[826,228,286,160]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":2,"text":"핵심 판단","textPreview":"핵심 판단","textChars":5,"textLines":1,"bbox":[72,454,180,26]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":2,"text":"가방몰 자동화의 출발점은 “AI 도구 구매”가 아니라 상품·문의·반품·리포트 업무가 반복되는 지점을 찾아 구조화하는 것입니다.","textPreview":"가방몰 자동화의 출발점은 “AI 도구 구매”가 아니라 상품·문의·반품·리포트 업무가 반복되는 지점을 찾아 구조화하는 것입니다.","textChars":70,"textLines":1,"bbox":[72,488,1040,56]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":2,"text":"Source: McKinsey, Generative AI in fashion","textPreview":"Source: McKinsey, Generative AI in fashion","textChars":42,"textLines":1,"bbox":[72,682,880,18]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[1184,672,34,24]}
+{"kind":"notes","id":"nt/nl69uq","slide":2,"text":"McKinsey 수치는 시장 잠재력 근거로만 사용하고, 고객사 직접 효과로 과장하지 않는다."}
+{"kind":"slide","id":"sl/8fm291","slide":3,"title":"여성용 가방 온라인몰의 주요 페인포인트","textShapes":15}
+{"kind":"textbox","id":"sh/3m94fu18","slide":3,"text":"여성용 가방 온라인몰의 주요 페인포인트","textPreview":"여성용 가방 온라인몰의 주요 페인포인트","textChars":21,"textLines":1,"bbox":[72,52,820,54]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":3,"text":"대표와 소수 운영팀에 몰리는 반복 업무를 먼저 봅니다.","textPreview":"대표와 소수 운영팀에 몰리는 반복 업무를 먼저 봅니다.","textChars":30,"textLines":1,"bbox":[72,108,900,34]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":3,"bbox":[72,164,330,136]}
+{"kind":"shape","id":"sh/adsji5sn","slide":3,"bbox":[72,164,7,136]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":3,"text":"상품 상세","textPreview":"상품 상세","textChars":5,"textLines":1,"bbox":[94,184,286,28]}
+{"kind":"textbox","id":"sh/sji5snel","slide":3,"text":"소재·크기·수납·착용컷 설명을 매번 새로 작성","textPreview":"소재·크기·수납·착용컷 설명을 매번 새로 작성","textChars":25,"textLines":1,"bbox":[94,222,286,66]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":3,"bbox":[442,164,330,136]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":3,"bbox":[442,164,7,136]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":3,"text":"고객 문의","textPreview":"고객 문의","textChars":5,"textLines":1,"bbox":[464,184,286,28]}
+{"kind":"textbox","id":"sh/z61032ls","slide":3,"text":"배송·색상·수납·코디·반품 질문이 반복","textPreview":"배송·색상·수납·코디·반품 질문이 반복","textChars":21,"textLines":1,"bbox":[464,222,286,66]}
+{"kind":"shape","id":"sh/al87ed8b","slide":3,"bbox":[812,164,330,136]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":3,"bbox":[812,164,7,136]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":3,"text":"반품/교환","textPreview":"반품/교환","textChars":5,"textLines":1,"bbox":[834,184,286,28]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":3,"text":"사유 분류와 정책 안내가 수작업으로 누적","textPreview":"사유 분류와 정책 안내가 수작업으로 누적","textChars":22,"textLines":1,"bbox":[834,222,286,66]}
+{"kind":"shape","id":"sh/a9w3m94f","slide":3,"bbox":[72,344,330,136]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":3,"bbox":[72,344,7,136]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":3,"text":"리뷰 관리","textPreview":"리뷰 관리","textChars":5,"textLines":1,"bbox":[94,364,286,28]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":3,"text":"리뷰 요약과 개선 포인트 추출이 늦어짐","textPreview":"리뷰 요약과 개선 포인트 추출이 늦어짐","textChars":21,"textLines":1,"bbox":[94,402,286,66]}
+{"kind":"shape","id":"sh/65wjudg7","slide":3,"bbox":[442,344,330,136]}
+{"kind":"shape","id":"sh/ed8bat47","slide":3,"bbox":[442,344,7,136]}
+{"kind":"textbox","id":"sh/7u54zido","slide":3,"text":"운영 판단","textPreview":"운영 판단","textChars":5,"textLines":1,"bbox":[464,364,286,28]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":3,"text":"주문·문의·리뷰 데이터를 연결해 보기 어려움","textPreview":"주문·문의·리뷰 데이터를 연결해 보기 어려움","textChars":24,"textLines":1,"bbox":[464,402,286,66]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":3,"text":"자동화 우선순위는 “자주 반복되고, 사람이 최종 확인하면 되는 업무”부터 잡습니다.","textPreview":"자동화 우선순위는 “자주 반복되고, 사람이 최종 확인하면 되는 업무”부터 잡습니다.","textChars":46,"textLines":1,"bbox":[72,562,980,34]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":3,"text":"Source: 업계 운영 페인포인트 종합","textPreview":"Source: 업계 운영 페인포인트 종합","textChars":22,"textLines":1,"bbox":[72,682,880,18]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":3,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1184,672,34,24]}
+{"kind":"notes","id":"nt/8fm291","slide":3,"text":"업종 특화 페인포인트를 구체화한다. 실제 고객사가 있으면 문의 로그와 상품 등록 방식을 확인한다."}
+{"kind":"slide","id":"sl/nabkqk","slide":4,"title":"구매 전환을 막는 고객 경험 문제","textShapes":17}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":4,"text":"구매 전환을 막는 고객 경험 문제","textPreview":"구매 전환을 막는 고객 경험 문제","textChars":18,"textLines":1,"bbox":[72,52,820,54]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":4,"text":"장바구니 이탈은 가격, 배송, 신뢰, 절차 문제와 연결됩니다.","textPreview":"장바구니 이탈은 가격, 배송, 신뢰, 절차 문제와 연결됩니다.","textChars":34,"textLines":1,"bbox":[72,108,900,34]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":4,"text":"70.22%","textPreview":"70.22%","textChars":6,"textLines":1,"bbox":[92,190,260,72]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":4,"text":"평균 문서화된 온라인 장바구니 이탈률","textPreview":"평균 문서화된 온라인 장바구니 이탈률","textChars":20,"textLines":1,"bbox":[94,270,300,54]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":4,"text":"추가 비용이 높음","textPreview":"추가 비용이 높음","textChars":9,"textLines":1,"bbox":[450,170,220,24]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":4,"bbox":[680,173,350,22]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":4,"bbox":[680,173,341.25,22]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":4,"text":"39%","textPreview":"39%","textChars":3,"textLines":1,"bbox":[1048,170,60,24]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":4,"text":"배송이 느림","textPreview":"배송이 느림","textChars":6,"textLines":1,"bbox":[450,242,220,24]}
+{"kind":"shape","id":"sh/a1gvy90j","slide":4,"bbox":[680,245,350,22]}
+{"kind":"shape","id":"sh/zidonyd0","slide":4,"bbox":[680,245,183.75,22]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":4,"text":"21%","textPreview":"21%","textChars":3,"textLines":1,"bbox":[1048,242,60,24]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":4,"text":"결제 신뢰 부족","textPreview":"결제 신뢰 부족","textChars":8,"textLines":1,"bbox":[450,314,220,24]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":4,"bbox":[680,317,350,22]}
+{"kind":"shape","id":"sh/za1gvy90","slide":4,"bbox":[680,317,166.25,22]}
+{"kind":"textbox","id":"sh/svu9knih","slide":4,"text":"19%","textPreview":"19%","textChars":3,"textLines":1,"bbox":[1048,314,60,24]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":4,"text":"체크아웃이 복잡함","textPreview":"체크아웃이 복잡함","textChars":9,"textLines":1,"bbox":[450,386,220,24]}
+{"kind":"shape","id":"sh/adsji5sn","slide":4,"bbox":[680,389,350,22]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":4,"bbox":[680,389,157.5,22]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":4,"text":"18%","textPreview":"18%","textChars":3,"textLines":1,"bbox":[1048,386,60,24]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":4,"text":"반품 정책 불만족","textPreview":"반품 정책 불만족","textChars":9,"textLines":1,"bbox":[450,458,220,24]}
+{"kind":"shape","id":"sh/d0z61032","slide":4,"bbox":[680,461,350,22]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":4,"bbox":[680,461,131.25,22]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":4,"text":"15%","textPreview":"15%","textChars":3,"textLines":1,"bbox":[1048,458,60,24]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":4,"text":"자동화 연결점: FAQ/정책 문구 정리, 배송·반품 안내 초안, 상품 상세의 구매 불안 요소 보강","textPreview":"자동화 연결점: FAQ/정책 문구 정리, 배송·반품 안내 초안, 상품 상세의 구매 불안 요소 보강","textChars":54,"textLines":1,"bbox":[450,548,650,58]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":4,"text":"Source: Baymard cart abandonment research, 2025 update","textPreview":"Source: Baymard cart abandonment research, 2025 update","textChars":54,"textLines":1,"bbox":[72,682,880,18]}
+{"kind":"textbox","id":"sh/knih4byh","slide":4,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1184,672,34,24]}
+{"kind":"notes","id":"nt/nabkqk","slide":4,"text":"Baymard의 평균 이탈률과 이탈 이유를 제시하고, 자동화가 해결할 수 있는 문구/응대/정책 안내 영역으로 연결한다."}
+{"kind":"slide","id":"sl/d0y4ii","slide":5,"title":"반품/교환과 문의가 운영 시간을 잡아먹는다","textShapes":13}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":5,"text":"반품/교환과 문의가 운영 시간을 잡아먹는다","textPreview":"반품/교환과 문의가 운영 시간을 잡아먹는다","textChars":23,"textLines":1,"bbox":[72,52,820,54]}
+{"kind":"textbox","id":"sh/sji5snel","slide":5,"text":"가방은 소재, 크기, 색상, 수납감이 구매 전후 문의를 만듭니다.","textPreview":"가방은 소재, 크기, 색상, 수납감이 구매 전후 문의를 만듭니다.","textChars":36,"textLines":1,"bbox":[72,108,900,34]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":5,"bbox":[84,176,270,132]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":5,"text":"15.8%","textPreview":"15.8%","textChars":5,"textLines":1,"bbox":[110,198,210,58]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":5,"text":"2025년 리테일\n예상 반품률","textPreview":"2025년 리테일 | 예상 반품률","textChars":16,"textLines":2,"bbox":[112,260,210,44]}
+{"kind":"shape","id":"sh/s72x4nap","slide":5,"bbox":[84,334,270,132]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":5,"text":"$849.9B","textPreview":"$849.9B","textChars":7,"textLines":1,"bbox":[108,356,220,56]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":5,"text":"2025년 예상\n반품 규모","textPreview":"2025년 예상 | 반품 규모","textChars":14,"textLines":2,"bbox":[112,418,210,44]}
+{"kind":"shape","id":"sh/zidonyd0","slide":5,"bbox":[420,172,330,286]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":5,"bbox":[420,172,7,286]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":5,"text":"반복되는 반품 문의","textPreview":"반복되는 반품 문의","textChars":10,"textLines":1,"bbox":[446,202,260,30]}
+{"kind":"textbox","id":"sh/9knih4by","slide":5,"text":"색상 차이, 수납공간, 소재감, 스트랩 길이, 배송비와 교환 절차가 고객마다 반복 질문으로 이어집니다.","textPreview":"색상 차이, 수납공간, 소재감, 스트랩 길이, 배송비와 교환 절차가 고객마다 반복 질문으로 이어집니다.","textChars":57,"textLines":1,"bbox":[446,250,260,128]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":5,"bbox":[794,172,330,286]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":5,"bbox":[794,172,7,286]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":5,"text":"AI 자동화 적용점","textPreview":"AI 자동화 적용점","textChars":10,"textLines":1,"bbox":[820,202,260,30]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":5,"text":"문의 유형 분류, 정책 기반 답변 초안, 반품 사유 집계, 상품 설명 보완 포인트를 자동으로 정리합니다.","textPreview":"문의 유형 분류, 정책 기반 답변 초안, 반품 사유 집계, 상품 설명 보완 포인트를 자동으로 정리합니다.","textChars":58,"textLines":1,"bbox":[820,250,260,128]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":5,"bbox":[420,504,704,70]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":5,"text":"운영 원칙: AI가 바로 답변을 확정하지 않고, 직원이 승인하는 초안 중심으로 시작합니다.","textPreview":"운영 원칙: AI가 바로 답변을 확정하지 않고, 직원이 승인하는 초안 중심으로 시작합니다.","textChars":50,"textLines":1,"bbox":[452,526,640,26]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":5,"text":"Source: MarketWatch citing NRF returns report; Salesforce AI customer trust report","textPreview":"Source: MarketWatch citing NRF returns report; Salesforce AI customer trust report","textChars":82,"textLines":1,"bbox":[72,682,880,18]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":5,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[1184,672,34,24]}
+{"kind":"notes","id":"nt/d0y4ii","slide":5,"text":"반품률은 전체 리테일 자료임을 밝히고, 여성용 가방몰의 반복 문의/반품 사유 관리 필요성과 연결한다."}
+{"kind":"slide","id":"sl/5izqfa","slide":6,"title":"제안 솔루션: Codex 기반 업무 자동화 구조","textShapes":15}
+{"kind":"textbox","id":"sh/4zidonyd","slide":6,"text":"제안 솔루션: Codex 기반 업무 자동화 구조","textPreview":"제안 솔루션: Codex 기반 업무 자동화 구조","textChars":26,"textLines":1,"bbox":[72,52,820,54]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":6,"text":"AI 도구 하나를 사는 것이 아니라, 반복 업무가 굴러가는 구조를 만듭니다.","textPreview":"AI 도구 하나를 사는 것이 아니라, 반복 업무가 굴러가는 구조를 만듭니다.","textChars":42,"textLines":1,"bbox":[72,108,900,34]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":6,"bbox":[86,230,164,118]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":6,"text":"상품/문의/리뷰\n데이터","textPreview":"상품/문의/리뷰 | 데이터","textChars":12,"textLines":2,"bbox":[100,258,136,58]}
+{"kind":"shape","id":"sh/4r65wjud","slide":6,"bbox":[256,270,54,36]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":6,"bbox":[326,230,164,118]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":6,"text":"Codex 작업\n초안 생성","textPreview":"Codex 작업 | 초안 생성","textChars":14,"textLines":2,"bbox":[340,258,136,58]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":6,"bbox":[496,270,54,36]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":6,"bbox":[566,230,164,118]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":6,"text":"직원 검토\n승인","textPreview":"직원 검토 | 승인","textChars":8,"textLines":2,"bbox":[580,258,136,58]}
+{"kind":"shape","id":"sh/vy90je9c","slide":6,"bbox":[736,270,54,36]}
+{"kind":"shape","id":"sh/oj2t83it","slide":6,"bbox":[806,230,164,118]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":6,"text":"고객 응대/\n콘텐츠 반영","textPreview":"고객 응대/ | 콘텐츠 반영","textChars":13,"textLines":2,"bbox":[820,258,136,58]}
+{"kind":"shape","id":"sh/61032lsz","slide":6,"bbox":[976,270,54,36]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":6,"bbox":[1030,230,164,118]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":6,"text":"주간 리포트\n개선","textPreview":"주간 리포트 | 개선","textChars":9,"textLines":2,"bbox":[1044,258,136,58]}
+{"kind":"shape","id":"sh/dsji5sne","slide":6,"bbox":[90,438,310,132]}
+{"kind":"shape","id":"sh/6tovahoz","slide":6,"bbox":[90,438,7,132]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":6,"text":"핵심 통제","textPreview":"핵심 통제","textChars":5,"textLines":1,"bbox":[114,462,250,28]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":6,"text":"최종 발송과 게시 전에는\n사람이 승인합니다.","textPreview":"최종 발송과 게시 전에는 | 사람이 승인합니다.","textChars":24,"textLines":2,"bbox":[114,506,252,46]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":6,"bbox":[448,438,310,132]}
+{"kind":"shape","id":"sh/9cvixcze","slide":6,"bbox":[448,438,7,132]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":6,"text":"도구 연결","textPreview":"도구 연결","textChars":5,"textLines":1,"bbox":[472,462,250,28]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":6,"text":"Codex, Claude Code, n8n을\n업무 흐름에 맞춰 연결합니다.","textPreview":"Codex, Claude Code, n8n을 | 업무 흐름에 맞춰 연결합니다.","textChars":41,"textLines":2,"bbox":[472,506,252,46]}
+{"kind":"shape","id":"sh/yxobm58z","slide":6,"bbox":[806,438,310,132]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":6,"bbox":[806,438,7,132]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":6,"text":"작게 시작","textPreview":"작게 시작","textChars":5,"textLines":1,"bbox":[830,462,250,28]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":6,"text":"문의·상품·리포트 중\n효과 큰 영역부터 구축합니다.","textPreview":"문의·상품·리포트 중 | 효과 큰 영역부터 구축합니다.","textChars":28,"textLines":2,"bbox":[830,506,252,46]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":6,"text":"Source: McKinsey use cases; user-provided consulting context","textPreview":"Source: McKinsey use cases; user-provided consulting context","textChars":60,"textLines":1,"bbox":[72,682,880,18]}
+{"kind":"textbox","id":"sh/sji5snel","slide":6,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1184,672,34,24]}
+{"kind":"notes","id":"nt/5izqfa","slide":6,"text":"Codex가 초안을 만들고 직원이 승인하는 human-in-the-loop 구조를 강조한다."}
+{"kind":"slide","id":"sl/xu7w1d","slide":7,"title":"자동화 적용 영역 5가지","textShapes":19}
+{"kind":"textbox","id":"sh/loj2t83i","slide":7,"text":"자동화 적용 영역 5가지","textPreview":"자동화 적용 영역 5가지","textChars":13,"textLines":1,"bbox":[72,52,820,54]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":7,"text":"바로 적용 가능한 업무부터 작게 시작합니다.","textPreview":"바로 적용 가능한 업무부터 작게 시작합니다.","textChars":24,"textLines":1,"bbox":[72,108,900,34]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":7,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[92,152,48,32]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":7,"text":"상품 상세 초안","textPreview":"상품 상세 초안","textChars":8,"textLines":1,"bbox":[150,152,220,28]}
+{"kind":"textbox","id":"sh/lwval87e","slide":7,"text":"소재·수납·코디 포인트를 상품별 설명 초안으로 정리","textPreview":"소재·수납·코디 포인트를 상품별 설명 초안으로 정리","textChars":28,"textLines":1,"bbox":[150,184,480,28]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":7,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[92,234,48,32]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":7,"text":"CS 답변 초안","textPreview":"CS 답변 초안","textChars":8,"textLines":1,"bbox":[150,234,220,28]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":7,"text":"반복 문의를 정책과 상품 정보에 맞춰 답변 초안화","textPreview":"반복 문의를 정책과 상품 정보에 맞춰 답변 초안화","textChars":27,"textLines":1,"bbox":[150,266,480,28]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":7,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[92,316,48,32]}
+{"kind":"textbox","id":"sh/54zidony","slide":7,"text":"반품/교환 분류","textPreview":"반품/교환 분류","textChars":8,"textLines":1,"bbox":[150,316,220,28]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":7,"text":"사유를 자동 태깅해 상품 개선과 정책 안내에 활용","textPreview":"사유를 자동 태깅해 상품 개선과 정책 안내에 활용","textChars":27,"textLines":1,"bbox":[150,348,480,28]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":7,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[92,398,48,32]}
+{"kind":"textbox","id":"sh/cvixczed","slide":7,"text":"리뷰 요약","textPreview":"리뷰 요약","textChars":5,"textLines":1,"bbox":[150,398,220,28]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":7,"text":"고객 반응을 장점·불만·개선 포인트로 요약","textPreview":"고객 반응을 장점·불만·개선 포인트로 요약","textChars":23,"textLines":1,"bbox":[150,430,480,28]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":7,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[92,480,48,32]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":7,"text":"주간 운영 리포트","textPreview":"주간 운영 리포트","textChars":9,"textLines":1,"bbox":[150,480,220,28]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":7,"text":"주문·문의·리뷰 변화를 대표가 보는 요약으로 정리","textPreview":"주문·문의·리뷰 변화를 대표가 보는 요약으로 정리","textChars":27,"textLines":1,"bbox":[150,512,480,28]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":7,"text":"Source: McKinsey fashion AI use cases; workflow design assumptions","textPreview":"Source: McKinsey fashion AI use cases; workflow design assumptions","textChars":66,"textLines":1,"bbox":[72,682,880,18]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":7,"text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[1184,672,34,24]}
+{"kind":"image","id":"im/b2hwfyxo","slide":7,"name":"","geometry":"roundRect","alt":"Structured ecommerce workflow visual","bbox":[725,122,430,430]}
+{"kind":"notes","id":"nt/xu7w1d","slide":7,"text":"적용 영역은 구현 가능한 업무 초안 중심으로 설명한다. 실제 연동 대상은 고객사 도구 확인 후 확정한다."}
+{"kind":"slide","id":"sl/079yh7","slide":8,"title":"4주 구축 로드맵","textShapes":17}
+{"kind":"textbox","id":"sh/onyd0z61","slide":8,"text":"4주 구축 로드맵","textPreview":"4주 구축 로드맵","textChars":9,"textLines":1,"bbox":[72,52,820,54]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":8,"text":"진단, 설계, 구축, 운영 정착 순서로 위험을 줄입니다.","textPreview":"진단, 설계, 구축, 운영 정착 순서로 위험을 줄입니다.","textChars":31,"textLines":1,"bbox":[72,108,900,34]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":8,"bbox":[88,182,238,306]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":8,"text":"1주차","textPreview":"1주차","textChars":3,"textLines":1,"bbox":[112,210,120,24]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":8,"text":"업무 진단","textPreview":"업무 진단","textChars":5,"textLines":1,"bbox":[112,252,178,34]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":8,"text":"반복 업무 목록\n자료 위치\n문의 유형 확인","textPreview":"반복 업무 목록 | 자료 위치 | 문의 유형 확인","textChars":23,"textLines":3,"bbox":[112,320,180,92]}
+{"kind":"shape","id":"sh/6tovahoz","slide":8,"bbox":[112,436,160,6]}
+{"kind":"shape","id":"sh/dsji5sne","slide":8,"bbox":[380,182,238,306]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":8,"text":"2주차","textPreview":"2주차","textChars":3,"textLines":1,"bbox":[404,210,120,24]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":8,"text":"자동화 설계","textPreview":"자동화 설계","textChars":6,"textLines":1,"bbox":[404,252,178,34]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":8,"text":"우선순위 선정\n승인 흐름\n데이터 연결 방식 정의","textPreview":"우선순위 선정 | 승인 흐름 | 데이터 연결 방식 정의","textChars":26,"textLines":3,"bbox":[404,320,180,92]}
+{"kind":"shape","id":"sh/8bat47y1","slide":8,"bbox":[404,436,160,6]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":8,"bbox":[672,182,238,306]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":8,"text":"3주차","textPreview":"3주차","textChars":3,"textLines":1,"bbox":[696,210,120,24]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":8,"text":"프로토타입 구축","textPreview":"프로토타입 구축","textChars":8,"textLines":1,"bbox":[696,252,178,34]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":8,"text":"상품/CS/리포트\n자동화 초안 흐름 제작","textPreview":"상품/CS/리포트 | 자동화 초안 흐름 제작","textChars":22,"textLines":2,"bbox":[696,320,180,92]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":8,"bbox":[696,436,160,6]}
+{"kind":"shape","id":"sh/ulwval87","slide":8,"bbox":[964,182,238,306]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":8,"text":"4주차","textPreview":"4주차","textChars":3,"textLines":1,"bbox":[988,210,120,24]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":8,"text":"운영 정착","textPreview":"운영 정착","textChars":5,"textLines":1,"bbox":[988,252,178,34]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":8,"text":"사용법 정리\n예외 처리\n개선 지표 확인","textPreview":"사용법 정리 | 예외 처리 | 개선 지표 확인","textChars":21,"textLines":3,"bbox":[988,320,180,92]}
+{"kind":"shape","id":"sh/t83itgfm","slide":8,"bbox":[988,436,160,6]}
+{"kind":"shape","id":"sh/4nap4r65","slide":8,"bbox":[92,538,970,58]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":8,"text":"원칙: 큰 개발 프로젝트가 아니라, 대표와 운영팀이 바로 써볼 수 있는 작은 자동화부터 검증합니다.","textPreview":"원칙: 큰 개발 프로젝트가 아니라, 대표와 운영팀이 바로 써볼 수 있는 작은 자동화부터 검증합니다.","textChars":55,"textLines":1,"bbox":[120,556,910,24]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":8,"text":"Source: Consulting delivery model","textPreview":"Source: Consulting delivery model","textChars":33,"textLines":1,"bbox":[72,682,880,18]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":8,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[1184,672,34,24]}
+{"kind":"notes","id":"nt/079yh7","slide":8,"text":"4주 로드맵은 고객사가 준비할 자료와 컨설턴트 산출물을 분명하게 보여준다."}
+{"kind":"slide","id":"sl/gjya8s","slide":9,"title":"기대 효과와 관리 지표","textShapes":14}
+{"kind":"textbox","id":"sh/nih4byhg","slide":9,"text":"기대 효과와 관리 지표","textPreview":"기대 효과와 관리 지표","textChars":12,"textLines":1,"bbox":[72,52,820,54]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":9,"text":"자동화 효과는 감으로 보지 않고 지표로 확인합니다.","textPreview":"자동화 효과는 감으로 보지 않고 지표로 확인합니다.","textChars":28,"textLines":1,"bbox":[72,108,900,34]}
+{"kind":"shape","id":"sh/9cvixcze","slide":9,"bbox":[88,150,595,56]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":9,"text":"문의 1차 응답 시간","textPreview":"문의 1차 응답 시간","textChars":11,"textLines":1,"bbox":[112,165,205,24]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":9,"text":"반복 질문 초안화로 응답 지연 감소","textPreview":"반복 질문 초안화로 응답 지연 감소","textChars":19,"textLines":1,"bbox":[340,165,310,24]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":9,"bbox":[88,226,595,56]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":9,"text":"상품 등록 소요 시간","textPreview":"상품 등록 소요 시간","textChars":11,"textLines":1,"bbox":[112,241,205,24]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":9,"text":"상세 설명 초안과 검수 흐름 표준화","textPreview":"상세 설명 초안과 검수 흐름 표준화","textChars":19,"textLines":1,"bbox":[340,241,310,24]}
+{"kind":"shape","id":"sh/65wjudg7","slide":9,"bbox":[88,302,595,56]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":9,"text":"반복 문의 비중","textPreview":"반복 문의 비중","textChars":8,"textLines":1,"bbox":[112,317,205,24]}
+{"kind":"textbox","id":"sh/obm58z25","slide":9,"text":"FAQ와 상세페이지 보완 포인트 추적","textPreview":"FAQ와 상세페이지 보완 포인트 추적","textChars":20,"textLines":1,"bbox":[340,317,310,24]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":9,"bbox":[88,378,595,56]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":9,"text":"반품 사유 분류율","textPreview":"반품 사유 분류율","textChars":9,"textLines":1,"bbox":[112,393,205,24]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":9,"text":"반품 원인을 태그로 모아 개선에 활용","textPreview":"반품 원인을 태그로 모아 개선에 활용","textChars":20,"textLines":1,"bbox":[340,393,310,24]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":9,"bbox":[88,454,595,56]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":9,"text":"주간 리포트 작성 시간","textPreview":"주간 리포트 작성 시간","textChars":12,"textLines":1,"bbox":[112,469,205,24]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":9,"text":"대표용 운영 요약을 자동 초안화","textPreview":"대표용 운영 요약을 자동 초안화","textChars":17,"textLines":1,"bbox":[340,469,310,24]}
+{"kind":"textbox","id":"sh/z61032ls","slide":9,"text":"Source: Baymard checkout research; consulting KPI framework","textPreview":"Source: Baymard checkout research; consulting KPI framework","textChars":59,"textLines":1,"bbox":[72,682,880,18]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":9,"text":"9","textPreview":"9","textChars":1,"textLines":1,"bbox":[1184,672,34,24]}
+{"kind":"image","id":"im/9s36hcrm","slide":9,"name":"","geometry":"roundRect","alt":"Consulting workshop visual","bbox":[770,126,380,420]}
+{"kind":"notes","id":"nt/gjya8s","slide":9,"text":"수치 목표는 고객사 현황 진단 후 확정한다. 이 슬라이드는 관리할 지표 목록이다."}
+{"kind":"slide","id":"sl/k0bkyb","slide":10,"title":"다음 단계","textShapes":18}
+{"kind":"textbox","id":"sh/bulwval8","slide":10,"text":"다음 단계","textPreview":"다음 단계","textChars":5,"textLines":1,"bbox":[72,70,480,60]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":10,"text":"다음 미팅에서 실제 반복 업무와 데이터 연결 가능성을 확인합니다.","textPreview":"다음 미팅에서 실제 반복 업무와 데이터 연결 가능성을 확인합니다.","textChars":36,"textLines":1,"bbox":[72,140,760,34]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":10,"bbox":[96,230,30,30]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":10,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[102,234,18,20]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":10,"text":"고객사명과 발표 대상 확정","textPreview":"고객사명과 발표 대상 확정","textChars":14,"textLines":1,"bbox":[144,230,450,32]}
+{"kind":"shape","id":"sh/032lszqt","slide":10,"bbox":[96,315,30,30]}
+{"kind":"textbox","id":"sh/tovahoza","slide":10,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[102,319,18,20]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":10,"text":"주요 반복 문의 30건 샘플","textPreview":"주요 반복 문의 30건 샘플","textChars":15,"textLines":1,"bbox":[144,315,450,32]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":10,"bbox":[96,400,30,30]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":10,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[102,404,18,20]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":10,"text":"상품 등록 양식과 상세페이지 예시","textPreview":"상품 등록 양식과 상세페이지 예시","textChars":18,"textLines":1,"bbox":[144,400,450,32]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":10,"bbox":[690,230,30,30]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":10,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[696,234,18,20]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":10,"text":"반품/교환 정책과 사유 목록","textPreview":"반품/교환 정책과 사유 목록","textChars":15,"textLines":1,"bbox":[738,230,450,32]}
+{"kind":"shape","id":"sh/at47y1kr","slide":10,"bbox":[690,315,30,30]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":10,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[696,319,18,20]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":10,"text":"사용 중인 쇼핑몰·CS·문서 도구","textPreview":"사용 중인 쇼핑몰·CS·문서 도구","textChars":18,"textLines":1,"bbox":[738,315,450,32]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":10,"bbox":[690,400,30,30]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":10,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[696,404,18,20]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":10,"text":"가격 정보와 4주 이후 운영 지원 범위","textPreview":"가격 정보와 4주 이후 운영 지원 범위","textChars":21,"textLines":1,"bbox":[738,400,450,32]}
+{"kind":"shape","id":"sh/bulwval8","slide":10,"bbox":[72,555,250,38]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":10,"text":"제안 범위 확정 미팅 진행","textPreview":"제안 범위 확정 미팅 진행","textChars":14,"textLines":1,"bbox":[90,563,214,20]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":10,"text":"상세 출처: Baymard, McKinsey, NRF/MarketWatch, Salesforce","textPreview":"상세 출처: Baymard, McKinsey, NRF/MarketWatch, Salesforce","textChars":53,"textLines":1,"bbox":[72,640,840,20]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":10,"text":"Source: All sources listed in speaker notes","textPreview":"Source: All sources listed in speaker notes","textChars":43,"textLines":1,"bbox":[72,682,880,18]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1184,672,34,24]}
+{"kind":"notes","id":"nt/k0bkyb","slide":10,"text":"Source notes\nAccess date: 2026-06-23\n\n1. Baymard Institute, 50 Cart Abandonment Rate Statistics 2026, https://baymard.com/lists/cart-abandonment-rate\n- Used on slides 4 and 9. Claims: 70.22% average documented online shopping cart abandonment rate; 39% extra costs too high; 21% delivery too slow; 19% payment trust; 18% long/complicated checkout.\n\n2. McKinsey, Generative AI: Unlocking the future of fashion, https://www.mckinsey.com/industries/retail/our-insights/generative-ai-unlocking-the-future-of-fashion\n- Used on slides 2, 6, 7. Claims: generative AI could add $150B-$275B to apparel, fashion and luxury operating profits; use cases include marketing, sales/customer experience, supply chain/logistics and returns.\n\n3. MarketWatch citing NRF returns report, Free returns are not a given anymore, https://www.marketwatch.com/story/free-returns-are-not-a-given-anymore-as-retailers-deal-with-rising-costs-c2e50de0\n- Used on slide 5. Claims: retailers expect 15.8% of sales to come back as returns in 2025, $849.9B; 2024 return rate 16.9%, $890B.\n\n4. Salesforce, State of the AI Connected Customer, https://www.salesforce.com/resources/research-reports/state-of-the-ai-connected-customer/\n- Used on slides 5 and 10. Directional support for transparent AI use, trust and human handoff in customer experience.\n\nUser-provided image assets\n- assets/cover-image.png: verified in assets folder and inserted on slide 1.\n- assets/workflow-image.png: verified in assets folder and inserted on slide 7.\n- assets/workshop-image.png: verified in assets folder and inserted on slide 9.\n"}
